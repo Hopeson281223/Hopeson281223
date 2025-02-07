@@ -1,6 +1,6 @@
 >> 👋 Hi, I’m Hopeson
 >> 
->> 🧑‍💻 I’m interested in Cybersecurity
+>> 🧑‍💻 I’m interested in Cybersecurity,  Web development &&  Artificial intelligence - Python
 >> 
 >> 🎓 I’m currently learning Computer science at Kabarak university.
 >> 
