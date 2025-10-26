@@ -1,10 +1,8 @@
 >> 👋 Hi, I’m Hopeson
 >> 
->> 🧑‍💻 I’m interested in Cybersecurity,  Web development &&  Artificial intelligence -->Python
+>> 🧑‍💻 I’m interested in Cybersecurity,  Web development &&  Artificial intelligence 
 >> 
 >> 🎓 I’m currently learning Computer science at Kabarak university.
->> 
->> 🔐 I’m looking to collaborate on security projects.
 >> 
 >> 📫 How to reach me: benderihopeson281223@gmail.com
 
