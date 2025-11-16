@@ -2,7 +2,7 @@
 >> 
 >> 🧑‍💻 I’m interested in Cybersecurity,  Web development &&  Artificial intelligence 
 >> 
->> 🎓 I’m currently learning Computer science at Kabarak university.
+>> 🎓 I’m currently taking Computer science at Kabarak university.
 >> 
 >> 📫 How to reach me: benderihopeson281223@gmail.com
 
